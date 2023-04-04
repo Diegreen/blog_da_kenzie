@@ -17,12 +17,19 @@ main {
     border-radius: 5px;
     padding: 35px;
     height: 85%;
-    
+    position: relative;
 }
 
 h1 {
     color: white;
     margin-bottom: 30px;
+    padding-left: 55px;
+}
+
+img {
+    width: 50px;
+    position: absolute;
+    top: 50px;
 }
 
 h3 {
